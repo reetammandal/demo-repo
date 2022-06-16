@@ -8,3 +8,7 @@ some more changes
 
 
 trying this out
+
+
+## local dev
+open index in browser
